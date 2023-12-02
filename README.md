@@ -1,17 +1,24 @@
-# Your custom Twilio Flex Plugin
+# SFDC Extension for Twilio Flex
 
-Twilio Flex Plugins allow you to customize the appearance and behavior of [Twilio Flex](https://www.twilio.com/flex). If you want to learn more about the capabilities and how to use the API, check out our [Flex documentation](https://www.twilio.com/docs/flex).
+This plugin loads the Salesforce Classic Console toolkit JavaScript library for use within Flex.
 
-## Setup
-
-Make sure you have [Node.js](https://nodejs.org) as well as [`npm`](https://npmjs.com). We support Node >= 10.12 (and recommend the _even_ versions of Node). Afterwards, install the dependencies by running `npm install`:
-
+## Run Plugin
 ```bash
-cd 
+cd plugin-sfdc-extension
 
 # If you use npm
 npm install
 ```
+
+## Functionality
+This plugin will remove the popout option from the Open CTI adapter when a call is active.
+
+![image](https://github.com/dccl90/plugin-sfdc-extension/assets/25923929/ec53e7e4-82fb-41d0-b691-9aa83493f7ef)
+
+
+## Setup Twilio CLI and Flex Plugin Extension
+
+Make sure you have [Node.js](https://nodejs.org) as well as [`npm`](https://npmjs.com). We support Node >= 10.12 (and recommend the _even_ versions of Node). Afterwards, install the dependencies by running `npm install`:
 
 Next, please install the [Twilio CLI](https://www.twilio.com/docs/twilio-cli/quickstart) by running:
 
