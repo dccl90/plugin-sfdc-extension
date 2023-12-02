@@ -13,7 +13,8 @@ npm install
 ## Functionality
 This plugin will remove the popout option from the Open CTI adapter when a call is active.
 
-![image](https://github.com/dccl90/plugin-sfdc-extension/assets/25923929/ec53e7e4-82fb-41d0-b691-9aa83493f7ef)
+![Dec-02-2023 23-50-52](https://github.com/dccl90/plugin-sfdc-extension/assets/25923929/aa3d69d5-916f-48bb-95a2-6d5cb069464d)
+
 
 
 ## Setup Twilio CLI and Flex Plugin Extension
