@@ -2,14 +2,6 @@
 
 This plugin loads the Salesforce Classic Console toolkit JavaScript library for use within Flex.
 
-## Run Plugin
-```bash
-cd plugin-sfdc-extension
-
-# If you use npm
-npm install
-```
-
 ## Functionality
 This plugin will remove the popout option from the Open CTI adapter when a call is active.
 
